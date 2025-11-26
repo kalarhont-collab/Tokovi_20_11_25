@@ -41,7 +41,7 @@ public class Zadatak3PDF {
             if (kopija.delete()) {
                 System.out.println("Kopija uspješno obrisana.");
             } else {
-                System.out.println("Greška: kopija nije mogla biti obrisana.");
+                System.out.println("Pogreška! kopija nije mogla biti obrisana.");
             }
 
 
