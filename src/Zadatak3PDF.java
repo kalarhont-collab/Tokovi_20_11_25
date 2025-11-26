@@ -52,7 +52,7 @@ public class Zadatak3PDF {
             System.out.println("Pogreška! " + e.getMessage());
 
         } catch (IOException e) {
-            System.out.println("Pogreška pri kopiranju datoteke: " + e.getMessage());
+            System.out.println("Pogreška pri kopiranju datoteke! " + e.getMessage());
 
 
 
